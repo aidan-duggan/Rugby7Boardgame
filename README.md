@@ -17,7 +17,7 @@ I'm not going to start with a very structured aim, instead I'm going to start do
 
 [Phases of Play](https://github.com/aidan-duggan/Rugby7Boardgame/blob/master/phasesofplay.md#phases-of-play)
 
-Attack
+[Attack](https://github.com/aidan-duggan/Rugby7Boardgame/blob/master/attack.md#attack)
 
 Defence
 
