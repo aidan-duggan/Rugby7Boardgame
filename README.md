@@ -13,7 +13,7 @@ I'm not going to start with a very structured aim, instead I'm going to start do
 
 ## Table of Contents
 
-Setup and Components
+[Setup and Components](https://github.com/aidan-duggan/Rugby7Boardgame/blob/master/Setup%26Components.md#setup-and-components)
 
 Phases of Play
 
