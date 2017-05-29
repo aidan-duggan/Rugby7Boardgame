@@ -34,7 +34,14 @@ It has a modifer noting how many player tokens must be skipped to determine who 
 It also includes a number representing how faster the pass it.
 The pass can be left or right of the player token with the ball.
 
->Which player token does the defenders card apply to is important here.
+> Which player token does the defenders card apply to is important here.
 
 #### Run
-This card represents the play carrier charging forward with the ball, attempting to break through or go around the defense. 
+This card represents the ball carrier charging forward with the ball, attempting to break through or go around the defense. 
+The ball carrier can move as many squares as the distance value of the card. The strength value is used to determine if the ball carrier gets through a tackling defender.
+
+#### Kick
+This card represents the ball carrier kicking. The direction represents where the kick is aimed.
+
+> This is the least well formed type but is very important to force the defender to leave player tokens in the back field.
+
