@@ -21,5 +21,5 @@ I'm not going to start with a very structured aim, instead I'm going to start do
 
 [Defence](https://github.com/aidan-duggan/Rugby7Boardgame/blob/master/defense.md#defence)
 
-Resolution of Play
+[Resolution of Play](https://github.com/aidan-duggan/Rugby7Boardgame/blob/master/ResolutionOfPlay.md#resolution-of-play)
 
