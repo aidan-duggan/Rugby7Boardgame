@@ -27,4 +27,5 @@ This type represents the defenders moving diagonally sideways, this is done when
 #### Blitz
 This type represents the specific defener blitzing forward to hit the ball carrier. It can leave the other defenders out of position but is very powerful
 
-> It is still not clear how to determine which defender the card will apply to.
+#### Resolution
+The defending player chooses the player token the card applies to as it is resolved.
