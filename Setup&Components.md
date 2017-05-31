@@ -17,3 +17,13 @@ Board will be a replica of a rugby pitch. It will divided in a square grid at le
 
 ## Cards
 There are two main desks, attack and defense. The details of each card will be outlines in their respective sections.
+
+## Kick Off Setup
+
+The game always starts with a Kick Off, and after a score. The scoring player is the kicker in the kick off.
+
+> Kick off is a very messy thing, an abstraction might be a better solution then modeling it. It would make for a cleaner introduction also.
+> That said it is interesting to play it out, perhaps it could be an optional rule?
+
+The kicking player places their player tokens where they want on their side of the pitch. Then the recieving player places their tokens. The attacking player then chooses where to kick the ball.
+
