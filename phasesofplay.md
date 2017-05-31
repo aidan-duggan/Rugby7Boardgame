@@ -25,6 +25,8 @@ Then the defending player selects an equal number of cards to defend with.
 
 > Since the attacking player decides the number of cards played, they could force the defender to play everything. 
 > This is a stable state (draw 3 play all 3) so the resulting behaviour should be carefully analyzed.
+> This should favour the defender for sure, to encourage the attack to simple kick the ball to the defender for a gain in territory
+> This could be achieved by when play shifts from player to player the new attack gains cards depending on how long they defended.
 
 Then the cards are resolved. This is detailed in the Resolution of Play section.
 
